@@ -1,7 +1,15 @@
-﻿namespace Ejercicio5
+﻿using System;
+
+namespace Ejercicio5
 {
     internal class Program
     {
+        /* Diseñar un algoritmo que lea tres números A, B, C y visualice en pantalla el valor más grande.
+           El usuario debe ingresar tres valores diferentes. 
+           Si el promedio se ubica en los siguientes rangos, escribir los correspondientes mensajes. Considerar la situación en donde el promedio generado no esté contemplado en los rangos establecidos, mostrar mensaje de error. 
+           9.5-10.0 Excelente 
+           8.5-9.4 Muy bien 
+           7.5-8.4 Bien */
         static void Main(string[] args)
         {
             int numeroA = 0;

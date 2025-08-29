@@ -1,7 +1,12 @@
-﻿namespace Ejercicio1
+﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+
+namespace Ejercicio1
 {
     internal class Program
     {
+
+        /* Crear un algoritmo que permita ingresar el nombre y el sueldo de una persona, si el sueldo supera los 3000 pesos 
+         * mostrar el mensaje en pantalla con el nombre de la persona, indicando que debe abonar impuestos. */
         static void Main(string[] args)
         {
             string nombre = "";

@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Repositorio Programaci\u00F3n\\ParcialCondicionales_IsabelaUribeCasta\u00F1o\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35A1521B-F6AB-40F4-A91B-E8C2750BF873}|ParcialCondicionales_IsabelaUribeCasta\u00F1o.csproj|c:\\users\\lenovo\\desktop\\repositorio programaci\u00F3n\\parcialcondicionales_isabelauribecasta\u00F1o\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35A1521B-F6AB-40F4-A91B-E8C2750BF873}|ParcialCondicionales_IsabelaUribeCasta\u00F1o.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Repositorio Programaci\u00F3n\\6.CondicionalMultipleTerciario\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Repositorio Programaci\u00F3n\\7.OperadorTerniario\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\Repositorio Programaci\u00F3n\\5.CondicionalAnidado\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Repositorio Programaci\u00F3n\\ParcialCondicionales_IsabelaUribeCasta\u00F1o\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Repositorio Programaci\u00F3n\\ParcialCondicionales_IsabelaUribeCasta\u00F1o\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAK4AAAAAAAAAAAAAAJgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T19:15:56.891Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Repositorio Programaci\u00F3n\\7.OperadorTerniario\\Program.cs",
+              "RelativeDocumentMoniker": "..\\7.OperadorTerniario\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Repositorio Programaci\u00F3n\\7.OperadorTerniario\\Program.cs",
+              "RelativeToolTip": "..\\7.OperadorTerniario\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T19:34:03.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Repositorio Programaci\u00F3n\\5.CondicionalAnidado\\Program.cs",
+              "RelativeDocumentMoniker": "..\\5.CondicionalAnidado\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Repositorio Programaci\u00F3n\\5.CondicionalAnidado\\Program.cs",
+              "RelativeToolTip": "..\\5.CondicionalAnidado\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T19:23:52.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Repositorio Programaci\u00F3n\\6.CondicionalMultipleTerciario\\Program.cs",
+              "RelativeDocumentMoniker": "..\\6.CondicionalMultipleTerciario\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Repositorio Programaci\u00F3n\\6.CondicionalMultipleTerciario\\Program.cs",
+              "RelativeToolTip": "..\\6.CondicionalMultipleTerciario\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T19:23:31.168Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

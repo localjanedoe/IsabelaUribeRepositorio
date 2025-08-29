@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCondicionales_IsabelaUribeCastaño\bin\Debug\net8.0\ParcialCondicionales_IsabelaUribeCastaño.exe
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCondicionales_IsabelaUribeCastaño\bin\Debug\net8.0\ParcialCondicionales_IsabelaUribeCastaño.deps.json
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCondicionales_IsabelaUribeCastaño\bin\Debug\net8.0\ParcialCondicionales_IsabelaUribeCastaño.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCondicionales_IsabelaUribeCastaño\bin\Debug\net8.0\ParcialCondicionales_IsabelaUribeCastaño.dll
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCondicionales_IsabelaUribeCastaño\bin\Debug\net8.0\ParcialCondicionales_IsabelaUribeCastaño.pdb
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCondicionales_IsabelaUribeCastaño\obj\Debug\net8.0\ParcialCondicionales_IsabelaUribeCastaño.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCondicionales_IsabelaUribeCastaño\obj\Debug\net8.0\ParcialCondicionales_IsabelaUribeCastaño.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCondicionales_IsabelaUribeCastaño\obj\Debug\net8.0\ParcialCondicionales_IsabelaUribeCastaño.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCondicionales_IsabelaUribeCastaño\obj\Debug\net8.0\ParcialCondicionales_IsabelaUribeCastaño.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCondicionales_IsabelaUribeCastaño\obj\Debug\net8.0\ParcialCondicionales_IsabelaUribeCastaño.sourcelink.json
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCondicionales_IsabelaUribeCastaño\obj\Debug\net8.0\ParcialCondicionales_IsabelaUribeCastaño.dll
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCondicionales_IsabelaUribeCastaño\obj\Debug\net8.0\refint\ParcialCondicionales_IsabelaUribeCastaño.dll
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCondicionales_IsabelaUribeCastaño\obj\Debug\net8.0\ParcialCondicionales_IsabelaUribeCastaño.pdb
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCondicionales_IsabelaUribeCastaño\obj\Debug\net8.0\ParcialCondicionales_IsabelaUribeCastaño.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCondicionales_IsabelaUribeCastaño\obj\Debug\net8.0\ref\ParcialCondicionales_IsabelaUribeCastaño.dll

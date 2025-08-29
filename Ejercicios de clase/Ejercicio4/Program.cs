@@ -4,6 +4,11 @@ namespace Ejercicio4
 {
     internal class Program
     {
+
+        /* Un cliente se hospeda varias noches en una hostería, el precio por noche es de 200 dólares. Si el usuario se queda
+           más de 3 noches se le aplica un porcentaje de descuento del 17% y si no se aplica un porcentaje de descuento del 2%. 
+           Mostrar un mensaje con el monto total que debe pagar el cliente, sabiendo que el usuario indica 
+           cuántas noches se va a quedar en la hostería. */
         static void Main(string[] args)
         {
             float des = 0.17f;
