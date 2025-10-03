@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Repositorio Programación\TallerParcialCiclos\bin\Debug\net8.0\TallerParcialCiclos.exe
+C:\Users\LENOVO\Desktop\Repositorio Programación\TallerParcialCiclos\bin\Debug\net8.0\TallerParcialCiclos.deps.json
+C:\Users\LENOVO\Desktop\Repositorio Programación\TallerParcialCiclos\bin\Debug\net8.0\TallerParcialCiclos.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Repositorio Programación\TallerParcialCiclos\bin\Debug\net8.0\TallerParcialCiclos.dll
+C:\Users\LENOVO\Desktop\Repositorio Programación\TallerParcialCiclos\bin\Debug\net8.0\TallerParcialCiclos.pdb
+C:\Users\LENOVO\Desktop\Repositorio Programación\TallerParcialCiclos\obj\Debug\net8.0\TallerParcialCiclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Repositorio Programación\TallerParcialCiclos\obj\Debug\net8.0\TallerParcialCiclos.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Repositorio Programación\TallerParcialCiclos\obj\Debug\net8.0\TallerParcialCiclos.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Repositorio Programación\TallerParcialCiclos\obj\Debug\net8.0\TallerParcialCiclos.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Repositorio Programación\TallerParcialCiclos\obj\Debug\net8.0\TallerParcialCiclos.sourcelink.json
+C:\Users\LENOVO\Desktop\Repositorio Programación\TallerParcialCiclos\obj\Debug\net8.0\TallerParcialCiclos.dll
+C:\Users\LENOVO\Desktop\Repositorio Programación\TallerParcialCiclos\obj\Debug\net8.0\refint\TallerParcialCiclos.dll
+C:\Users\LENOVO\Desktop\Repositorio Programación\TallerParcialCiclos\obj\Debug\net8.0\TallerParcialCiclos.pdb
+C:\Users\LENOVO\Desktop\Repositorio Programación\TallerParcialCiclos\obj\Debug\net8.0\TallerParcialCiclos.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Repositorio Programación\TallerParcialCiclos\obj\Debug\net8.0\ref\TallerParcialCiclos.dll

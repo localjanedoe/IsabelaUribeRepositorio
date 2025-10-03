@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            /* Crear un algoritmo que permita calcular la factorial de un número dado por el usuario */
+          /* 10. Crear un algoritmo que permita calcular la factorial de un número dado por el usuario */
 
             int acum = 1;
             int contador = 1;
@@ -19,7 +19,41 @@
                 contador++;
             }
 
-            Console.WriteLine($"El factorial de {num} es {acum}"); 
+            Console.WriteLine($"El factorial de {num} es {acum}");
+
+            /* 11. Realizar un algoritmo que pida números enteros positivos y los sume, hasta que se ingrese un número entero negativo. 
+                   Se debe mostrar por pantalla el total de la suma de los números ingresados.  */
+
+            int numero = 0;
+            int acumul = 0;
+            int j = 0;
+
+            while (numero >=0)
+            {
+                Console.WriteLine("Ingrese un número entero positivo");
+                numero = Int32.Parse(Console.ReadLine());
+                acumul = acumul + numero;
+                Console.WriteLine ($"{acumul}");
+                j++;
+             
+            }
+
+           /* 12. Realizar algoritmo que permita obtener la suma de todos los números impares hasta el 99. */
+
+            int number = 0;
+            int acumulador = 0;
+            int i = 1;
+
+            while (number <=99)
+            {
+                if (number % 2 != 0)
+                {
+                    acumulador += number;
+                    Console.WriteLine($"{acumulador}");
+                }
+                number++;
+            }
+            
         }
     }
 }

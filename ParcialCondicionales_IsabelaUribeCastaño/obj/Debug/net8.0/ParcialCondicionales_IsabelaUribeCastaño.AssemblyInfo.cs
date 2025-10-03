@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ParcialCondicionales_IsabelaUribeCastaño")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53928dd3a8b37ffb6e7a07a81c1e3c23afea300b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8501288e0b6d4894cf6cf45641559dbdc17c0e7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ParcialCondicionales_IsabelaUribeCastaño")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ParcialCondicionales_IsabelaUribeCastaño")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

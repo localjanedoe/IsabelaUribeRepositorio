@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Repositorio Programación\17.DoWhile\bin\Debug\net8.0\17.DoWhile.exe
+C:\Users\LENOVO\Desktop\Repositorio Programación\17.DoWhile\bin\Debug\net8.0\17.DoWhile.deps.json
+C:\Users\LENOVO\Desktop\Repositorio Programación\17.DoWhile\bin\Debug\net8.0\17.DoWhile.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Repositorio Programación\17.DoWhile\bin\Debug\net8.0\17.DoWhile.dll
+C:\Users\LENOVO\Desktop\Repositorio Programación\17.DoWhile\bin\Debug\net8.0\17.DoWhile.pdb
+C:\Users\LENOVO\Desktop\Repositorio Programación\17.DoWhile\obj\Debug\net8.0\17.DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Repositorio Programación\17.DoWhile\obj\Debug\net8.0\17.DoWhile.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Repositorio Programación\17.DoWhile\obj\Debug\net8.0\17.DoWhile.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Repositorio Programación\17.DoWhile\obj\Debug\net8.0\17.DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Repositorio Programación\17.DoWhile\obj\Debug\net8.0\17.DoWhile.sourcelink.json
+C:\Users\LENOVO\Desktop\Repositorio Programación\17.DoWhile\obj\Debug\net8.0\17.DoWhile.dll
+C:\Users\LENOVO\Desktop\Repositorio Programación\17.DoWhile\obj\Debug\net8.0\refint\17.DoWhile.dll
+C:\Users\LENOVO\Desktop\Repositorio Programación\17.DoWhile\obj\Debug\net8.0\17.DoWhile.pdb
+C:\Users\LENOVO\Desktop\Repositorio Programación\17.DoWhile\obj\Debug\net8.0\17.DoWhile.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Repositorio Programación\17.DoWhile\obj\Debug\net8.0\ref\17.DoWhile.dll

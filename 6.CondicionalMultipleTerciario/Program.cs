@@ -11,7 +11,7 @@ namespace _6.CondicionalMultipleTerciario
 
             float valorCompra = 0;
             float descuento = 0;
-            char dia=' ';
+            char dia = ' ';
             Console.WriteLine("Ingrese el valor de la compra.");
             valorCompra = Single.Parse(Console.ReadLine());
             Console.WriteLine("Ingrese el día de la semana: l:Lunes, m:Martes, x:Miércoles, j:Jueves, v:Viernes, s:Sábado, d:Domingo");
@@ -19,31 +19,38 @@ namespace _6.CondicionalMultipleTerciario
 
             switch (dia)
             {
-                case 'l': descuento = valorCompra*0.1f;
-                    Console.WriteLine($"Hoy es Lunes, descuento: {descuento}, valor a pagar: {valorCompra-descuento}");
+                case 'l':
+                    descuento = valorCompra * 0.1f;
+                    Console.WriteLine($"Hoy es Lunes, descuento: {descuento}, valor a pagar: {valorCompra - descuento}");
                     break;
 
-                case 'm': descuento = valorCompra * 0.15f;
+                case 'm':
+                    descuento = valorCompra * 0.15f;
                     Console.WriteLine($"Hoy es Martes, descuento: {descuento}, valor a pagar: {valorCompra - descuento}");
                     break;
 
-                case 'x': descuento = valorCompra * 0.1f;
+                case 'x':
+                    descuento = valorCompra * 0.1f;
                     Console.WriteLine($"Hoy es Miércoles, descuento: {descuento}, valor a pagar: {valorCompra - descuento}");
                     break;
 
-                case 'j': descuento = valorCompra * 0.15f;
+                case 'j':
+                    descuento = valorCompra * 0.15f;
                     Console.WriteLine($"Hoy es Jueves, descuento: {descuento}, valor a pagar: {valorCompra - descuento}");
                     break;
 
-                case 'v': descuento = valorCompra * 0.2f;
+                case 'v':
+                    descuento = valorCompra * 0.2f;
                     Console.WriteLine($"Hoy es Viernes, descuento: {descuento}, valor a pagar: {valorCompra - descuento}");
                     break;
 
-                case 's': descuento = valorCompra * 0.2f;
+                case 's':
+                    descuento = valorCompra * 0.2f;
                     Console.WriteLine($"Hoy es Sábado, descuento: {descuento}, valor a pagar: {valorCompra - descuento}");
                     break;
 
-                case 'd': descuento = valorCompra * 0;
+                case 'd':
+                    descuento = valorCompra * 0;
                     Console.WriteLine($"Hoy es Domingo, descuento: {descuento}, valor a pagar: {valorCompra - descuento}");
                     break;
 
@@ -90,6 +97,7 @@ namespace _6.CondicionalMultipleTerciario
                             break;
 
                     }
+            }
         }
     }
 }

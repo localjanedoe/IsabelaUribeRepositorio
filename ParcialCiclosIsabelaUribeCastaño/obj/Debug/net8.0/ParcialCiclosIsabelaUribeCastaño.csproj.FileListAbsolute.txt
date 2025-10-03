@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCiclosIsabelaUribeCastaño\bin\Debug\net8.0\ParcialCiclosIsabelaUribeCastaño.exe
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCiclosIsabelaUribeCastaño\bin\Debug\net8.0\ParcialCiclosIsabelaUribeCastaño.deps.json
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCiclosIsabelaUribeCastaño\bin\Debug\net8.0\ParcialCiclosIsabelaUribeCastaño.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCiclosIsabelaUribeCastaño\bin\Debug\net8.0\ParcialCiclosIsabelaUribeCastaño.dll
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCiclosIsabelaUribeCastaño\bin\Debug\net8.0\ParcialCiclosIsabelaUribeCastaño.pdb
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCiclosIsabelaUribeCastaño\obj\Debug\net8.0\ParcialCiclosIsabelaUribeCastaño.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCiclosIsabelaUribeCastaño\obj\Debug\net8.0\ParcialCiclosIsabelaUribeCastaño.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCiclosIsabelaUribeCastaño\obj\Debug\net8.0\ParcialCiclosIsabelaUribeCastaño.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCiclosIsabelaUribeCastaño\obj\Debug\net8.0\ParcialCiclosIsabelaUribeCastaño.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCiclosIsabelaUribeCastaño\obj\Debug\net8.0\ParcialCiclosIsabelaUribeCastaño.sourcelink.json
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCiclosIsabelaUribeCastaño\obj\Debug\net8.0\ParcialCiclosIsabelaUribeCastaño.dll
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCiclosIsabelaUribeCastaño\obj\Debug\net8.0\refint\ParcialCiclosIsabelaUribeCastaño.dll
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCiclosIsabelaUribeCastaño\obj\Debug\net8.0\ParcialCiclosIsabelaUribeCastaño.pdb
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCiclosIsabelaUribeCastaño\obj\Debug\net8.0\ParcialCiclosIsabelaUribeCastaño.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialCiclosIsabelaUribeCastaño\obj\Debug\net8.0\ref\ParcialCiclosIsabelaUribeCastaño.dll

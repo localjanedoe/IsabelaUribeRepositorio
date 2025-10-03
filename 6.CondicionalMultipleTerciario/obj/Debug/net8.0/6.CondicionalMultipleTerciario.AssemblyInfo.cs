@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("6.CondicionalMultipleTerciario")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95b359dff79f48bae0c4bdf9bbc9bf06a23c9ffe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8501288e0b6d4894cf6cf45641559dbdc17c0e7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("6.CondicionalMultipleTerciario")]
 [assembly: System.Reflection.AssemblyTitleAttribute("6.CondicionalMultipleTerciario")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

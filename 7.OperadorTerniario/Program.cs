@@ -13,7 +13,6 @@
             int edad = 0;
             Console.WriteLine("Ingrese su edad");
             edad = Int32.Parse(Console.ReadLine());
-
             Console.WriteLine(edad >= 18 ? "Es mayor de edad" : "NO es mayor de edad");
 
             /* Cree un algoritmo que permita ingresar 3 números enteros diferentes, y
