@@ -31,7 +31,7 @@ namespace Ejercicio27
             {
                 for (int j = 0; j < C; j++)
                 {
-
+                    
                 }
             }
         }

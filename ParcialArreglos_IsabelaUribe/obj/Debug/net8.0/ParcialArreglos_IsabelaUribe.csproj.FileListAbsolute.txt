@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialArreglos_IsabelaUribe\bin\Debug\net8.0\ParcialArreglos_IsabelaUribe.exe
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialArreglos_IsabelaUribe\bin\Debug\net8.0\ParcialArreglos_IsabelaUribe.deps.json
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialArreglos_IsabelaUribe\bin\Debug\net8.0\ParcialArreglos_IsabelaUribe.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialArreglos_IsabelaUribe\bin\Debug\net8.0\ParcialArreglos_IsabelaUribe.dll
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialArreglos_IsabelaUribe\bin\Debug\net8.0\ParcialArreglos_IsabelaUribe.pdb
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialArreglos_IsabelaUribe\obj\Debug\net8.0\ParcialArreglos_IsabelaUribe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialArreglos_IsabelaUribe\obj\Debug\net8.0\ParcialArreglos_IsabelaUribe.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialArreglos_IsabelaUribe\obj\Debug\net8.0\ParcialArreglos_IsabelaUribe.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialArreglos_IsabelaUribe\obj\Debug\net8.0\ParcialArreglos_IsabelaUribe.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialArreglos_IsabelaUribe\obj\Debug\net8.0\ParcialArreglos_IsabelaUribe.sourcelink.json
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialArreglos_IsabelaUribe\obj\Debug\net8.0\ParcialArreglos_IsabelaUribe.dll
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialArreglos_IsabelaUribe\obj\Debug\net8.0\refint\ParcialArreglos_IsabelaUribe.dll
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialArreglos_IsabelaUribe\obj\Debug\net8.0\ParcialArreglos_IsabelaUribe.pdb
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialArreglos_IsabelaUribe\obj\Debug\net8.0\ParcialArreglos_IsabelaUribe.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Repositorio Programación\ParcialArreglos_IsabelaUribe\obj\Debug\net8.0\ref\ParcialArreglos_IsabelaUribe.dll

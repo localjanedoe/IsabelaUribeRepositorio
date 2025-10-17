@@ -8,6 +8,11 @@
                    Leer el contenido de cada elemento y escribirlo en pantalla. */
 
             int[] numeros = new int[100];
+            for (int i = 0; i < 100; i++)
+            {
+                numeros[i] = 10;
+                Console.WriteLine(numeros[i]);
+            }
 
         }
     }

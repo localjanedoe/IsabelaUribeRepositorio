@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Repositorio Programación\30.ProgramaciónModular\bin\Debug\net8.0\30.ProgramaciónModular.exe
+C:\Users\LENOVO\Desktop\Repositorio Programación\30.ProgramaciónModular\bin\Debug\net8.0\30.ProgramaciónModular.deps.json
+C:\Users\LENOVO\Desktop\Repositorio Programación\30.ProgramaciónModular\bin\Debug\net8.0\30.ProgramaciónModular.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Repositorio Programación\30.ProgramaciónModular\bin\Debug\net8.0\30.ProgramaciónModular.dll
+C:\Users\LENOVO\Desktop\Repositorio Programación\30.ProgramaciónModular\bin\Debug\net8.0\30.ProgramaciónModular.pdb
+C:\Users\LENOVO\Desktop\Repositorio Programación\30.ProgramaciónModular\obj\Debug\net8.0\30.ProgramaciónModular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Repositorio Programación\30.ProgramaciónModular\obj\Debug\net8.0\30.ProgramaciónModular.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Repositorio Programación\30.ProgramaciónModular\obj\Debug\net8.0\30.ProgramaciónModular.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Repositorio Programación\30.ProgramaciónModular\obj\Debug\net8.0\30.ProgramaciónModular.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Repositorio Programación\30.ProgramaciónModular\obj\Debug\net8.0\30.ProgramaciónModular.sourcelink.json
+C:\Users\LENOVO\Desktop\Repositorio Programación\30.ProgramaciónModular\obj\Debug\net8.0\30.ProgramaciónModular.dll
+C:\Users\LENOVO\Desktop\Repositorio Programación\30.ProgramaciónModular\obj\Debug\net8.0\refint\30.ProgramaciónModular.dll
+C:\Users\LENOVO\Desktop\Repositorio Programación\30.ProgramaciónModular\obj\Debug\net8.0\30.ProgramaciónModular.pdb
+C:\Users\LENOVO\Desktop\Repositorio Programación\30.ProgramaciónModular\obj\Debug\net8.0\30.ProgramaciónModular.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Repositorio Programación\30.ProgramaciónModular\obj\Debug\net8.0\ref\30.ProgramaciónModular.dll

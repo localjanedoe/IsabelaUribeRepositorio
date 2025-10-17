@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\Repositorio Programaci\u00F3n\\28.Programaci\u00F3nModular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{392E9ACD-DB7A-4229-9FCA-0FA3989E227C}|28.Programaci\u00F3nModular.csproj|c:\\users\\lenovo\\desktop\\repositorio programaci\u00F3n\\28.programaci\u00F3nmodular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392E9ACD-DB7A-4229-9FCA-0FA3989E227C}|28.Programaci\u00F3nModular.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\Repositorio Programaci\u00F3n\\28.Programaci\u00F3nModular\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\Repositorio Programaci\u00F3n\\28.Programaci\u00F3nModular\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T19:32:40.951Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

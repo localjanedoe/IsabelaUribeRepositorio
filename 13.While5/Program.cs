@@ -92,8 +92,6 @@ namespace _13.While5
             Random rnd = new Random();
             numero = rnd.Next(0, 101);    //Devuelve un número entre 1 y 100
 
-
-
             while (playerGuess != numero)
             {
                 Console.WriteLine("Intente adivinar el número");
@@ -114,8 +112,6 @@ namespace _13.While5
             }
             
 
-            
-        
         }
     }
 }
